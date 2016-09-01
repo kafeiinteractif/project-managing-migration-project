@@ -4,9 +4,10 @@
 <a href="https://twitter.com/kafeiinteractif"><i class="fa fa-github"></i></a>
 <a href="https://www.drupal.org/kafei-interactih1-inc"><i class="fa fa-drupal"></i></a>
 
+
 Presented by Ryan Weal, collaboration with Novella Chiechi
 
-San José, Costa Rica 2016-09-01
+San José, Costa Rica 2016-09-01 ...  http://bit.ly/2bGc1oi
 
 <a href="https://kafei.ca"><img src="images/kafeiIcon.png"></a>
 
