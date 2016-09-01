@@ -7,7 +7,7 @@
 
 Presented by Ryan Weal, collaboration with Novella Chiechi
 
-San José, Costa Rica 2016-09-01 ...  http://bit.ly/2bGc1oi
+San José, Costa Rica 2016-09-01 ... Slides: http://bit.ly/2bGc1oi
 
 <a href="https://kafei.ca"><img src="images/kafeiIcon.png"></a>
 
